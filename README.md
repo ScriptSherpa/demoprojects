@@ -81,7 +81,9 @@ Welcome to my Machine Learning Projects Portfolio! This repository contains a co
 24. **Sentiment Analysis on Social Media Data**  
     *Example: Twitter Sentiment Analysis*  
     - Enhance your NLP skills by analyzing unstructured text data.
-
+      
+25. PREDICTING DEMAND OF SALES OF MOTOBIKES
+   - sale of bikes in diffrent seasons and wheathers 
 ## Overview
 
 Each project focuses on different aspects of machine learning, including:
